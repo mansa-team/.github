@@ -8,7 +8,7 @@ This project is being developed as our Final Course Project (TCC) for the System
 ### Key Features
 - **AI-Driven Portfolio Management** - Custom models built with economic expertise
 - **Risk-Adjusted Strategies** - Tailored to user profiles (Conservative, Moderate, Aggressive)
-- **Real-Time Market Integration** - B3 data constantly
+- **Real-Time Market Integration** - B3 data constantly updated
 
 ### Technologies
 
