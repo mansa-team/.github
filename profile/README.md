@@ -23,8 +23,19 @@ The project is divided into four main components, each using the following techn
 
 We are using Git and GitHub for version control, with comprehensive documentation following ABNT academic standards.
 
+### Support This Project
+
+This project is developed and maintained by students working on their final paper. If you find this project interesing and would like to support our development efforts, any financial contribution would be greatly appreciated and help us continue improving this work.
+
+You can support us through:
+- [GitHub Sponsors](https://github.com/sponsors/Placeholder-name-org)
+
+### Contact
+
+For questions or suggestions about the project, contact us through our email placeholder@gmail.com.
+
 ---
 
-## License
+### License
 
 This project is under our [custom license](https://github.com/Placeholder-name-org/docs?tab=License-1-ov-file) - see the LICENSE file for details.
