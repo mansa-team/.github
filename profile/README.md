@@ -3,7 +3,7 @@ An AI-powered fintech platform designed to help Brazilian middle-class investors
 
 The platform features a custom AI model trained on economic literature and B3 historical data, focusing on security-first investment strategies rather than raw growth, which can be dangerous some times. Our AI analyzes market patterns, manages portfolio rebalancing, and provides insights while maintaining transparency in all investment decisions.
 
-This project is being developed as our Final Course Project (TCC) for the Systems Development course at [Colégio Técnico de Limeira](https://www.cotil.unicamp.br/) - [UNICAMP](https://unicamp.br/), by [@heitorrosa](https://github.com/heitorrosa), [@gomesdevs](https://github.com/gomesdevs), [@PCarniello](https://github.com/PCarniello) and [@PedroHCiolfi](https://github.com/PedroHCiolfi).
+This project is being developed as our Final Paper for the Systems Development course at [Colégio Técnico de Limeira](https://www.cotil.unicamp.br/) - [UNICAMP](https://unicamp.br/), by [@heitorrosa](https://github.com/heitorrosa), [@gomesdevs](https://github.com/gomesdevs), [@PCarniello](https://github.com/PCarniello) and [@PedroHCiolfi](https://github.com/PedroHCiolfi).
 
 ### Key Features
 - **AI-Driven Portfolio Management** - Custom models built with economic expertise
