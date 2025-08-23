@@ -6,7 +6,7 @@ The platform features a custom AI model trained on robust systems related to the
 This project is being developed as our Final Paper for the Systems Development course at [Colégio Técnico de Limeira](https://www.cotil.unicamp.br/) - [UNICAMP](https://unicamp.br/), by [@heitorrosa](https://github.com/heitorrosa), [@gomesdevs](https://github.com/gomesdevs), [@PCarniello](https://github.com/PCarniello) and [@PedroHCiolfi](https://github.com/PedroHCiolfi).
 
 ### Key Features
-- **AI-Driven Portfolio** - Custom models built with economic expertise
+- **AI-Driven Portfolio** - Custom models built with economic expertise that manages your portifolio and adjust each stock based on its risk and metrics
 - **Risk-Adjusted Strategies** - Tailored to user profiles (Conservative, Moderate, Aggressive)
 - **Real-Time Market Integration** - B3 data constantly updated through advanced Data Science methods
 
