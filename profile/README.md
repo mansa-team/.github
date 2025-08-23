@@ -1,7 +1,7 @@
 ### Overview
 An AI-powered fintech platform designed to help Brazilian middle-class investors safely enter the stock market through intelligent, ai-driven portfolio management. Our solution addresses the common barriers that prevent everyday Brazilians from investing: lack of time to study economics, fear of investment scams, and inadequate returns from traditional investment methods like INSS, Renda Fixa, and Poupança.
 
-The platform features a custom AI model trained on robust systems related to the Brazilian Stocks market, focusing on secuure and profitable investment strategies rather. Our AI analyzes market patterns, manages portfolio rebalancing, and provides insights of decisions to its investors, like the Alladin model by BlackRock, Inc.
+The platform features a custom AI model trained on robust systems related to the Brazilian Stocks market, focusing on secuure and profitable investment strategies rather. Our AI analyzes market patterns, manages portfolio rebalancing, and provides insights of decisions to its investors, like the Aladdin model by BlackRock, Inc.
 
 This project is being developed as our Final Paper for the Systems Development course at [Colégio Técnico de Limeira](https://www.cotil.unicamp.br/) - [UNICAMP](https://unicamp.br/), by [@heitorrosa](https://github.com/heitorrosa), [@gomesdevs](https://github.com/gomesdevs), [@PCarniello](https://github.com/PCarniello) and [@PedroHCiolfi](https://github.com/PedroHCiolfi).
 
