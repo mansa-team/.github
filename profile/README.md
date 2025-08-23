@@ -38,4 +38,4 @@ For questions or suggestions about the project, contact us through our email man
 
 ### License
 
-This project is under our [custom license](https://github.com/Placeholder-name-org/docs?tab=License-1-ov-file) - see the LICENSE file for details.
+This project is under our [custom license](https://github.com/mansa-team/docs?tab=License-1-ov-file) - see the LICENSE file for details.
