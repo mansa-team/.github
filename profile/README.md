@@ -28,11 +28,11 @@ We are using Git and GitHub for version control, with comprehensive documentatio
 This project is developed and maintained by students working on their final paper. If you find this project interesing and would like to support our development efforts, any financial contribution would be greatly appreciated and help us continue improving this work.
 
 You can support us through:
-- [GitHub Sponsors](https://github.com/sponsors/Placeholder-name-org)
+- [GitHub Sponsors](https://github.com/sponsors/mansa-team)
 
 ### Contact
 
-For questions or suggestions about the project, contact us through our email placeholder@gmail.com.
+For questions or suggestions about the project, contact us through our email mansafin.team@gmail.com.
 
 ---
 
