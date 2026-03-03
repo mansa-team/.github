@@ -6,12 +6,12 @@ The platform features a series of custom models and algorithms called MUSA (Mans
 This project is being developed as our Final Paper for the Systems Development course at [Colégio Técnico de Limeira](https://www.cotil.unicamp.br/) - [UNICAMP](https://unicamp.br/), by [@heitorrosa](https://github.com/heitorrosa), [@gomesdevs](https://github.com/gomesdevs), [@PedroHCiolfi](https://github.com/PedroHCiolfi) and [@PCarniello](https://github.com/PCarniello).
 
 ### Related Papers
-* [[1]](https://arxiv.org/pdf/2508.13429) **AlphaX: An AI-Based Value Investing Strategy for the Brazilian Stock Market** (CASTRO, 2025)
-* [[2]](https://www.anbima.com.br/data/files/AB/A3/C2/A8/88C76910FCADB769B82BA2A8/Raio-X-do-Investidor-Brasileiro-8-edicao.pdf) **Raio-X do Investidor Brasileiro - 8ª edição** (ANBIMA, 2025)
-* [[3]](https://unisalesiano.com.br/aracatuba/wp-content/uploads/2022/01/Artigo-A-relevancia-da-participacao-do-investidor-brasileiro-pessoa-fisica-na-Bolsa-de-Valores-B3-no-ano-de-2019-Pronto.pdf) **A relevância da participação do investidor brasileiro pessoa física na B3** (SILVA et al., 2019)
+* [[1]](https://www.anbima.com.br/data/files/AB/A3/C2/A8/88C76910FCADB769B82BA2A8/Raio-X-do-Investidor-Brasileiro-8-edicao.pdf) **Raio-X do Investidor Brasileiro - 8ª edição** (ANBIMA, 2025)
+* [[2]](https://arxiv.org/pdf/2508.13429) **AlphaX: An AI-Based Value Investing Strategy for the Brazilian Stock Market** (CASTRO, 2025)
+* [[3]](https://conteudo.cvm.gov.br/export/sites/cvm/menu/investidor/estudos/pesquisas/20181002_estudo_spc_cenario_da_poupanca_e_dos_investimentos_dos_brasileiros.pdf) **Cenário da Poupança e dos Investimentos dos Brasileiros** (CVM; SPC BRASIL, 2018)
 * [[4]](https://estacio.periodicoscientificos.com.br/index.php/revistahorus/article/view/1085) **Educação Financeira: As Opções da Nova Classe Média no Brasil** (MENDES; FERREIRA, 2012)
-* [[5]](https://conteudo.cvm.gov.br/export/sites/cvm/menu/investidor/estudos/pesquisas/20181002_estudo_spc_cenario_da_poupanca_e_dos_investimentos_dos_brasileiros.pdf) **Cenário da Poupança e dos Investimentos dos Brasileiros** (CVM; SPC BRASIL, 2018)
-* [[6]](https://periodicos.ufms.br/index.php/EIGEDIN/article/view/20535) **O Impacto das Fintechs na Democratização dos Serviços Financeiros** (PEREIRA et al., 2024)
+* [[5]](https://periodicos.ufms.br/index.php/EIGEDIN/article/view/20535) **O Impacto das Fintechs na Democratização dos Serviços Financeiros** (PEREIRA et al., 2024)
+* [[6]](https://unisalesiano.com.br/aracatuba/wp-content/uploads/2022/01/Artigo-A-relevancia-da-participacao-do-investidor-brasileiro-pessoa-fisica-na-Bolsa-de-Valores-B3-no-ano-de-2019-Pronto.pdf) **A relevância da participação do investidor brasileiro pessoa física na B3** (SILVA et al., 2019)
     
   
 ### Support This Project
