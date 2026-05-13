@@ -3,7 +3,7 @@ An innovative fintech platform designed to help Brazilian middle-class investors
 
 The platform features a series of custom models and algorithms called MUSA (Mansa's Unsupervised Stocks Analyst) trained on robust datasets and algorithms related to the Brazilian Stock Market and economics. Our system analyzes market patterns and trends, builds and manages portfolios and gives an in-depth analysis through our models and RAG features, like the Aladdin by BlackRock, Inc.
 
-This project is being developed as our Final Paper for the Systems Development course at [Colégio Técnico de Limeira](https://www.cotil.unicamp.br/) - [UNICAMP](https://unicamp.br/), by [@heitorrosa](https://github.com/heitorrosa), [@gomesdevs](https://github.com/gomesdevs), [@PedroHCiolfi](https://github.com/PedroHCiolfi) and [@PCarniello](https://github.com/PCarniello).
+This project is being developed and is proposed by [@heitorrosa](https://github.com/heitorrosa), [@gomesdevs](https://github.com/gomesdevs), [@PedroHCiolfi](https://github.com/PedroHCiolfi) and [@PCarniello](https://github.com/PCarniello).
 
 ### Related Papers
 * [[1]](https://www.anbima.com.br/data/files/AB/A3/C2/A8/88C76910FCADB769B82BA2A8/Raio-X-do-Investidor-Brasileiro-8-edicao.pdf) **Raio-X do Investidor Brasileiro - 8ª edição** (ANBIMA, 2025)
@@ -16,7 +16,7 @@ This project is being developed as our Final Paper for the Systems Development c
   
 ### Support This Project
 
-This project is developed and maintained by students working on their Final Paper. If you find this project interesing and would like to support our development efforts, any financial contribution would be greatly appreciated and help us continue improving this work.
+This project is developed and maintained by students. If you find this project interesing and would like to support our development efforts, any financial contribution would be greatly appreciated and help us continue improving this work.
 
 You can support us through:
 - [GitHub Sponsors](https://github.com/sponsors/mansa-team)
