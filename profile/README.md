@@ -3,7 +3,7 @@ An innovative fintech platform designed to help Brazilian middle-class investors
 
 The platform features a series of custom models and algorithms called MUSA (Mansa's Unsupervised Stocks Analyst) trained on robust datasets and algorithms related to the Brazilian Stock Market and economics. Our system analyzes market patterns and trends, builds and manages portfolios and gives an in-depth analysis through our models and RAG features, like the Aladdin by BlackRock, Inc.
 
-This project is being developed and is proposed by [@heitorrosa](https://github.com/heitorrosa), [@gomesdevs](https://github.com/gomesdevs), [@PedroHCiolfi](https://github.com/PedroHCiolfi) and [@PCarniello](https://github.com/PCarniello).
+This project is being developed and is proposed by [@heitorrosa](https://github.com/heitorrosa) and [@gomesdevs](https://github.com/gomesdevs).
 
 ### Related Papers
 * [[1]](https://www.anbima.com.br/data/files/AB/A3/C2/A8/88C76910FCADB769B82BA2A8/Raio-X-do-Investidor-Brasileiro-8-edicao.pdf) **Raio-X do Investidor Brasileiro - 8ª edição** (ANBIMA, 2025)
